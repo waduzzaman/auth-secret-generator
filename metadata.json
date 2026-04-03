@@ -1,0 +1,5 @@
+{
+  "name": "SecretGen | Secure Auth Secret Generator",
+  "description": "Generate cryptographically strong, high-entropy authentication secrets for your applications. Supports Hex, Base64, and Base64URL formats.",
+  "requestFramePermissions": []
+}
